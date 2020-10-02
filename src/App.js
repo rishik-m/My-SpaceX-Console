@@ -9,7 +9,7 @@ function App() {
         <div className="App-logo-container">
           <img src={logo} className="App-logo" alt="logo" />
         </div>
-        <h3>WELCOME TO SPACEX CONSOLE</h3>
+        <h1>WELCOME TO SPACEX CONSOLE</h1>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
